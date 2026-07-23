@@ -267,7 +267,7 @@ Purdue University
 
 This project was developed as part of a personal hardware engineering initiative to strengthen my understanding of computer architecture, RTL design, digital logic, and hardware verification by implementing a complete single-cycle RISC-V processor from scratch in Verilog.
 
-**GitHub:** [https://github.com/<tubale>](https://github.com/tubale)
+**GitHub:** [https://github.com/tubale](https://github.com/tubale)
 
 **LinkedIn:** https://www.linkedin.com/in/tanayubale/
 
